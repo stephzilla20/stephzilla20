@@ -1,4 +1,6 @@
- ![BANNER](WMV.gif)
+<p align="center">
+  <img src="WMV.gif" width="800px" />
+</p>
 <h1 align="center">Hi 👋, I'm Stephen</h1>
 <h3 align="center">I'm a 2nd year CS co-op student studying at TMU! My hobbies are cooking, playing basketball, and working out.</h3>
 
