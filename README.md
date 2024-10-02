@@ -2,9 +2,9 @@
   <img src="WMV.gif" width="800px" />
 </p>
 <h1 align="center">Hi 👋, I'm Stephen</h1>
-<h3 align="center">I'm a 2nd year CS co-op student studying at TMU! My hobbies are cooking, playing basketball, and working out.</h3>
+<h3 align="center">I'm a 3rd year CS co-op student studying at TMU! I love learning about the latest tech trends but I'm also very into basketball and cooking!</h3>
 
-- 🌱 I’m currently learning **full stack development!**
+- 🌱 I’m currently learning **mobile development!**
 
 - 👨‍💻 Check out my personal portfolio <a href="https://stephen-tao.com/">here!</a>
 
